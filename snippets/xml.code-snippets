@@ -1,0 +1,10 @@
+{
+    "Message Communcation XML" : {
+        "prefix": "!communcation",
+        "body": [
+            "<xml>",
+            "</xml>"
+        ],
+        "description": "To add communication xml for message queue"
+    }
+}

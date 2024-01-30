@@ -1,0 +1,36 @@
+{
+  "name": "magento-2-code-snippets",
+  "displayName": "Magento 2 Code Snippets",
+  "description": "Predefined code for magento 2 to make development faster and smoother",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shreyas-1997/magento2codesnippets"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/html.code-snippets"
+      },
+      {
+        "language": "xml",
+        "path": "./snippets/xml.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/php.code-snippets"
+      }
+    ]
+  }
+}
